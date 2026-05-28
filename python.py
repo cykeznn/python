@@ -156,9 +156,9 @@ else:
     )
 
 # 根據 ETF 自動給預設年化報酬
-    if "0050" in etf_choice:
+    if "成長型" in etf_choice:
         default_rate = 8.0
-    elif "006208" in etf_choice:
+    elif "低費用市值型" in etf_choice:
         default_rate = 8.5
     else:
         default_rate = 6.0
