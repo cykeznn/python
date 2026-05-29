@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 # 設定
-st.set_page_config(page_title="App 訂閱支出轉資產計算器﹐20260529", layout="centered")
+st.set_page_config(page_title="App 訂閱支出轉資產計算器", layout="centered")
 
 # 顏色
 st.markdown(
@@ -57,7 +57,7 @@ st.markdown(
 )
 
 # 標題
-st.title("訂閱支出轉資產計算系統")
+st.title("訂閱支出轉資產計算系統﹐20260529")
 st.write("前兩年純本金定期定額、後四年全額轉投台股股權的複利增殖模型。")
 
 st.divider()
