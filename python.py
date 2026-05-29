@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 # 設定
-st.set_page_config(page_title="App 訂閱支出轉資產計算器", layout="centered")
+st.set_page_config(page_title="App 訂閱支出轉資產計算器﹐20260529", layout="centered")
 
 # 顏色
 st.markdown(
